@@ -7,4 +7,4 @@ resources:
 images:
 - name: goserver
   newName: poring86/gitopsfc
-  newTag: xpto
+  newTag: c16d886e8f1e3119f0902e28bdd4babcc07ba610
